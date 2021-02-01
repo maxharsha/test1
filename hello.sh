@@ -1,1 +1,1 @@
-echo "Hello <- This is a test from jenkins @ `date`" >> /tmp/log
+/usr/bin/echo echo "Hello <- This is a test from jenkins @ `/usr/bin/date`" >> /tmp/log
